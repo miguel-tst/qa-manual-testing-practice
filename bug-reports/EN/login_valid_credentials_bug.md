@@ -1,5 +1,9 @@
 # Bug Report
 
+## Note
+This bug report is included as an example of critical login issue documentation.
+The behavior described does not occur in the SauceDemo application.
+
 ## Title
 Login fails when using valid credentials
 
@@ -30,4 +34,4 @@ High
 High
 
 ## Evidence
-Not available (manual testing)
+N/A - Example bug report
