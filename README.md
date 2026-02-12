@@ -5,6 +5,7 @@ This repository contains examples of manual testing documentation created for le
 ## Content
 - Test cases (Spanish and English)
 - Bug reports (Spanish and English)
+- Evidences
 
 ## Topics covered
 - Manual testing
@@ -20,6 +21,7 @@ Este repositorio contiene ejemplos de documentación de testing manual, creado c
 ## Contenido
 - Casos de Prueba (Español e Inglés)
 - Reportes de Bugs (Español e Inglés)
+- Evidencias
 
 ## Temas abarcados
 - Testing manual
