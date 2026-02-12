@@ -1,5 +1,9 @@
 # Reporte de Bug
 
+## Contexto
+Este reporte de bug representa un problema común de validación en formularios web.
+Se incluye como un ejemplo de documentación de bugs y no corresponde a SauceDemo.
+
 ## Título
 El campo correo electrónico acepta un formato inválido
 
@@ -30,4 +34,4 @@ Media
 Media
 
 ## Evidencia
-No disponible (prueba manual)
+N/A Ejemplo de documentación
