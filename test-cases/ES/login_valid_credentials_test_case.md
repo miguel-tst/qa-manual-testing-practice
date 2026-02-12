@@ -27,3 +27,7 @@ El sistema permite el acceso del usuario y lo redirige a la página principal.
 
 ## Estatus
 Aprobado
+
+## Evidencia
+Se encuentra en /evidence/login/login_success.png
+
